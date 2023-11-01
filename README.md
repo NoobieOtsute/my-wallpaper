@@ -1,4 +1,4 @@
 # Wallpapers
 Store my wallpaper images
 
-![Astronaut.jpg](/my-wallpaper/astronaut.jpg)
+![astronaut.jpg](astronaut.jpg)
